@@ -10,4 +10,4 @@ def test_average():
     assert average([2,4]) == 3
 
 def test_average2():
-    assert average([4,6]) == 4
+    assert average([4,6]) == 5
